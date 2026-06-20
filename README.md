@@ -10,4 +10,4 @@ The folder structure is same as that of HDL bits. Alternative approaches are als
 
 ## Author
 
-[Ujjwal Chaudhary](https://www.linkedin.com/in/ujjwal-chaudhary-4436701aa/)
+[Durgesh Dongre](https://www.linkedin.com/in/durgeshdongre)
